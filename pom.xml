@@ -34,5 +34,6 @@
 	</build>
 	<modules>
 		<module>selfpractice01</module>
+		<module>selfpractice02</module>
 	</modules>
 </project>
